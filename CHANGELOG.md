@@ -1,5 +1,11 @@
 # Changelog
 
+## [v0.0.2](https://github.com/k2tzumi/beyond-activerecord-into-datamapper/compare/v0.0.1...v0.0.2) - 2026-04-25
+- build(deps): Bump actions/setup-node from 6.3.0 to 6.4.0 by @dependabot[bot] in https://github.com/k2tzumi/beyond-activerecord-into-datamapper/pull/14
+- build(deps-dev): Bump prettier from 3.8.1 to 3.8.3 by @dependabot[bot] in https://github.com/k2tzumi/beyond-activerecord-into-datamapper/pull/15
+- build(deps-dev): Bump uqr from 0.1.2 to 0.1.3 by @dependabot[bot] in https://github.com/k2tzumi/beyond-activerecord-into-datamapper/pull/16
+- build(deps-dev): Bump unocss from 66.5.10 to 66.6.8 by @dependabot[bot] in https://github.com/k2tzumi/beyond-activerecord-into-datamapper/pull/17
+
 ## [v0.0.1](https://github.com/k2tzumi/beyond-activerecord-into-datamapper/commits/v0.0.1) - 2026-04-25
 - init by @k2tzumi in https://github.com/k2tzumi/beyond-activerecord-into-datamapper/pull/2
 - build(deps): Bump actions/upload-pages-artifact from 4.0.0 to 5.0.0 by @dependabot[bot] in https://github.com/k2tzumi/beyond-activerecord-into-datamapper/pull/4
