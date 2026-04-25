@@ -38,7 +38,7 @@ addons:
 # ActiveRecordの呪縛を越えて：DataMapperと不変性の間で「コシ」のある設計のバランスを模索する
 
 PHPカンファレンス香川 2026 May 9, 2026.  
-v0.0.1  
+v0.0.2  
 @katzumi(かつみ)
 
 <div @click="$slidev.nav.next" class="mt-12 py-1" hover:bg="white op-10">
