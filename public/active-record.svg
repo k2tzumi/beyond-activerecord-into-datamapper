@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 380 230" width="100%" height="100%">
+  <defs>
+    <filter id="shadow" x="-10%" y="-10%" width="130%" height="130%">
+      <feDropShadow dx="3" dy="3" stdDeviation="1.5" flood-color="#000000" flood-opacity="0.4"/>
+    </filter>
+  </defs>
+
+  <style>
+    .box { fill: #ffffff; stroke: #000000; stroke-width: 1.2; filter: url(#shadow); }
+    .shape { fill: #ffffff; stroke: #000000; stroke-width: 1.2; }
+    .line { stroke: #000000; stroke-width: 1.2; }
+    .dashed-line { stroke: #000000; stroke-width: 1.2; stroke-dasharray: 5, 4; }
+    .text { font-family: Helvetica, Arial, sans-serif; font-size: 13px; fill: #000000; }
+    .title { font-weight: bold; }
+  </style>
+
+  <g transform="translate(15, 15)">
+    <rect x="0" y="0" width="170" height="185" class="box"/>
+    
+    <line x1="0" y1="24" x2="170" y2="24" class="line"/>
+    <line x1="0" y1="76" x2="170" y2="76" class="line"/>
+
+    <text x="85" y="17" class="text title" text-anchor="middle">Person</text>
+
+    <text x="6" y="42" class="text">lastName</text>
+    <text x="6" y="58" class="text">firstName</text>
+    <text x="6" y="74" class="text">numberOfDependents</text>
+
+    <text x="6" y="94" class="text">insert</text>
+    <text x="6" y="110" class="text">update</text>
+    <text x="6" y="142" class="text">getExemption</text>
+    <text x="6" y="158" class="text">isFlaggedForAudit</text>
+    <text x="6" y="174" class="text">getTaxableEarnings</text>
+  </g>
+
+  <g transform="translate(265, 60)">
+    <path d="M 0 10 L 0 70 C 0 82, 70 82, 70 70 L 70 10 Z" class="box"/>
+    <ellipse cx="35" cy="10" rx="35" ry="9" class="shape"/>
+  </g>
+
+  <line x1="185" y1="100" x2="258" y2="100" class="dashed-line"/>
+  <polyline points="251,94.5 258,100 251,105.5" fill="none" stroke="#000000" stroke-width="1.2"/>
+
+</svg>
