@@ -258,3 +258,71 @@ h6 {
     border-style: solid;
     border-color: #fffacd transparent transparent transparent;
   }
+
+  /* Semantic colors for v-click overlays */
+  .semantic-overlay {
+    border-width: 4px;
+    border-style: solid;
+  }
+
+  .semantic-overlay h3,
+  .semantic-overlay h3 .font-extrabold,
+  .semantic-overlay h3 .font-bold {
+    color: var(--semantic-title) !important;
+  }
+
+  .semantic-overlay p,
+  .semantic-overlay .text-2xl,
+  .semantic-overlay .text-xl,
+  .semantic-overlay .text-lg {
+    color: var(--semantic-body) !important;
+  }
+
+  .semantic-overlay p span,
+  .semantic-overlay .text-yellow-300,
+  .semantic-overlay .text-green-200,
+  .semantic-overlay .text-green-300,
+  .semantic-overlay .text-amber-300,
+  .semantic-overlay .text-sky-300 {
+    color: var(--semantic-accent) !important;
+  }
+
+  .semantic-ask {
+    --semantic-title: #dbeafe;
+    --semantic-body: #bfdbfe;
+    --semantic-accent: #67e8f9;
+    border-color: #60a5fa;
+    background: rgba(59, 130, 246, 0.15);
+  }
+
+  .semantic-positive {
+    --semantic-title: #d1fae5;
+    --semantic-body: #a7f3d0;
+    --semantic-accent: #bef264;
+    border-color: #34d399;
+    background: rgba(16, 185, 129, 0.15);
+  }
+
+  .semantic-warning {
+    --semantic-title: #fee2e2;
+    --semantic-body: #fecdd3;
+    --semantic-accent: #fcd34d;
+    border-color: #f87171;
+    background: rgba(239, 68, 68, 0.18);
+  }
+
+  .semantic-analysis {
+    --semantic-title: #fef3c7;
+    --semantic-body: #fde68a;
+    --semantic-accent: #fbbf24;
+    border-color: #f59e0b;
+    background: rgba(245, 158, 11, 0.14);
+  }
+
+  .semantic-decision {
+    --semantic-title: #ede9fe;
+    --semantic-body: #ddd6fe;
+    --semantic-accent: #7dd3fc;
+    border-color: #a78bfa;
+    background: rgba(139, 92, 246, 0.15);
+  }
