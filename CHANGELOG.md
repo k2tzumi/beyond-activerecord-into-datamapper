@@ -1,5 +1,8 @@
 # Changelog
 
+## [v0.0.3](https://github.com/k2tzumi/beyond-activerecord-into-datamapper/compare/v0.0.2...v0.0.3) - 2026-04-27
+- Reflect practice results by @k2tzumi in https://github.com/k2tzumi/beyond-activerecord-into-datamapper/pull/19
+
 ## [v0.0.2](https://github.com/k2tzumi/beyond-activerecord-into-datamapper/compare/v0.0.1...v0.0.2) - 2026-04-25
 - build(deps): Bump actions/setup-node from 6.3.0 to 6.4.0 by @dependabot[bot] in https://github.com/k2tzumi/beyond-activerecord-into-datamapper/pull/14
 - build(deps-dev): Bump prettier from 3.8.1 to 3.8.3 by @dependabot[bot] in https://github.com/k2tzumi/beyond-activerecord-into-datamapper/pull/15
