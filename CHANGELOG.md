@@ -1,5 +1,10 @@
 # Changelog
 
+## [v0.0.4](https://github.com/k2tzumi/beyond-activerecord-into-datamapper/compare/v0.0.3...v0.0.4) - 2026-05-06
+- Implement feature X to enhance user experience and optimize performance by @k2tzumi in https://github.com/k2tzumi/beyond-activerecord-into-datamapper/pull/21
+- Refine by @k2tzumi in https://github.com/k2tzumi/beyond-activerecord-into-datamapper/pull/24
+- build(deps-dev): Bump @iconify-json/simple-icons from 1.2.78 to 1.2.79 in the iconify-json group by @dependabot[bot] in https://github.com/k2tzumi/beyond-activerecord-into-datamapper/pull/23
+
 ## [v0.0.3](https://github.com/k2tzumi/beyond-activerecord-into-datamapper/compare/v0.0.2...v0.0.3) - 2026-04-27
 - Reflect practice results by @k2tzumi in https://github.com/k2tzumi/beyond-activerecord-into-datamapper/pull/19
 

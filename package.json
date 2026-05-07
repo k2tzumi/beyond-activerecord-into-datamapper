@@ -1,6 +1,6 @@
 {
   "name": "beyond-activerecord-into-datamapper",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "engines": {
     "node": ">=18.0.0"
   },
