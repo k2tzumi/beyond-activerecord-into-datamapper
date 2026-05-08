@@ -11,3 +11,6 @@ slides-export.pptx
 slides-export-notes.pdf
 .vite
 .textlintcache
+public/tts/
+.env.local
+.env
