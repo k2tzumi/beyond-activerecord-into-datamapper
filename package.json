@@ -2,7 +2,7 @@
   "name": "beyond-activerecord-into-datamapper",
   "version": "0.0.3",
   "engines": {
-    "node": ">=18.0.0"
+    "node": ">=22.0.0"
   },
   "scripts": {
     "build": "slidev build",
