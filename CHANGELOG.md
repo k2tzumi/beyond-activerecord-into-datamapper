@@ -1,5 +1,9 @@
 # Changelog
 
+## [v0.0.5](https://github.com/k2tzumi/beyond-activerecord-into-datamapper/compare/v0.0.4...v0.0.5) - 2026-05-08
+- Bonsai by @k2tzumi in https://github.com/k2tzumi/beyond-activerecord-into-datamapper/pull/25
+- Refine by @k2tzumi in https://github.com/k2tzumi/beyond-activerecord-into-datamapper/pull/26
+
 ## [v0.0.4](https://github.com/k2tzumi/beyond-activerecord-into-datamapper/compare/v0.0.3...v0.0.4) - 2026-05-06
 - Implement feature X to enhance user experience and optimize performance by @k2tzumi in https://github.com/k2tzumi/beyond-activerecord-into-datamapper/pull/21
 - Refine by @k2tzumi in https://github.com/k2tzumi/beyond-activerecord-into-datamapper/pull/24
