@@ -1,5 +1,9 @@
 # Changelog
 
+## [v0.0.6](https://github.com/k2tzumi/beyond-activerecord-into-datamapper/compare/v0.0.5...v0.0.6) - 2026-05-10
+- build(deps): Bump Songmu/tagpr from 1.18.3 to 1.19.0 by @dependabot[bot] in https://github.com/k2tzumi/beyond-activerecord-into-datamapper/pull/28
+- Setup tts by @k2tzumi in https://github.com/k2tzumi/beyond-activerecord-into-datamapper/pull/30
+
 ## [v0.0.5](https://github.com/k2tzumi/beyond-activerecord-into-datamapper/compare/v0.0.4...v0.0.5) - 2026-05-08
 - Bonsai by @k2tzumi in https://github.com/k2tzumi/beyond-activerecord-into-datamapper/pull/25
 - Refine by @k2tzumi in https://github.com/k2tzumi/beyond-activerecord-into-datamapper/pull/26
