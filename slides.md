@@ -28,11 +28,11 @@ highlighter: shiki
 css: unocss
 colorSchema: dark
 routerMode: hash
-# ttsConfig:
-#   voiceName: "ja-JP-Neural2-B"
-#   languageCode: "ja-JP"
-#   clickBreakTime: "500ms"
-#   usePregenerated: false
+ttsConfig:
+  voiceName: "ja-JP-Neural2-B"
+  languageCode: "ja-JP"
+  clickBreakTime: "500ms"
+  usePregenerated: false
 addons:
   - '@katzumi/slidev-addon-qrcode'
   - '@katzumi/slidev-addon-ogp-image'
